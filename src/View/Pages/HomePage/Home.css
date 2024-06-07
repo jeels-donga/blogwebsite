@@ -1,0 +1,17 @@
+.new::-webkit-scrollbar {
+    width: 3px;
+    /* width of the entire scrollbar */
+}
+
+.new::-webkit-scrollbar-track {
+    background: #c4c4c4;
+    /* color of the tracking area */
+}
+
+.new::-webkit-scrollbar-thumb {
+    background-color: #00aaa1;
+    /* color of the scroll thumb */
+    border-radius: 3px;
+    /* roundness of the scroll thumb */
+    border: 2px solid #00aaa1;
+}
